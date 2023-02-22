@@ -1,0 +1,12 @@
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\bin\Debug\net7.0\TecNM.Practica3.Core.deps.json
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\bin\Debug\net7.0\TecNM.Practica3.Core.dll
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\bin\Debug\net7.0\TecNM.Practica3.Core.pdb
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net7.0\TecNM.Practica3.Core.csproj.AssemblyReference.cache
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net7.0\TecNM.Practica3.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net7.0\TecNM.Practica3.Core.AssemblyInfoInputs.cache
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net7.0\TecNM.Practica3.Core.AssemblyInfo.cs
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net7.0\TecNM.Practica3.Core.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net7.0\TecNM.Practica3.Core.dll
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net7.0\refint\TecNM.Practica3.Core.dll
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net7.0\TecNM.Practica3.Core.pdb
+C:\Users\Fernando Adolfo\Documents\Visual Studio Code Projects\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net7.0\ref\TecNM.Practica3.Core.dll
